@@ -109,3 +109,13 @@
       height: 30%;
   }
 }
+
+footer {
+  text-align: center;
+  color: white;
+  position: absolute;
+  font-size: 20px;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
